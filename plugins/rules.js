@@ -7,7 +7,7 @@ Syarat dan Ketentuan Bot *KAMI*
 4. Kami tidak akan pernah meminta anda untuk memberikan informasi pribadi
 5. Jika menemukan Bug/Error silahkan langsung lapor ke Owner bot
 6. Juga kalau kalian ingin buat TUTORIAL BOT Langsung Lewat
-     ➥ YouTube: https://www.youtube.com/c/DrawlNag
+     
 6. Apapun yang anda perintah pada bot ini, KAMI TIDAK AKAN BERTANGGUNG JAWAB!
 
 Thanks !
